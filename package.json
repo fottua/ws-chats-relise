@@ -1,0 +1,21 @@
+
+
+{
+  "name": "ws-chats-relise",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fottua/ws-chats-relise.git"
+  },
+  "dependencies": {
+    "express": "^4.4.5",
+    "http": "latest",
+    "ws": "0.4.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
